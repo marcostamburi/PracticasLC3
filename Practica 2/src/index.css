@@ -1,0 +1,15 @@
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+th,
+td {
+  border: 2px solid blue;
+  padding: 20px;
+}
+
+td {
+  text-align: center;
+}
